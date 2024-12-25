@@ -15,7 +15,7 @@
  
      
 
-   <p style="font-family: Arial; font-size: 12pt;"> Uygulamayı bititdikten sonra  <img src="th.png" alt="" width="18px">CharGPT'den anlatmasını istedim;<br>
+   <p style="font-family: Arial; font-size: 12pt;"> Uygulamayı bitirdikten sonra  <img src="th.png" alt="" width="18px">CharGPT'den anlatmasını istedim;<br>
      Bu uygulamanın kodlarını adım adım anlatır mısın<br>
 <img src="th.png" alt="" width="18px">CharGPT:<br>
 
